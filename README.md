@@ -1,2 +1,2 @@
 # Overthinking101.main
-Main stupid shit code 
+Main weird code
